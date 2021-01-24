@@ -1,0 +1,6 @@
+C:\Users\osvji\source\repos\Alfa\bin\Debug\Alfa.exe.config
+C:\Users\osvji\source\repos\Alfa\bin\Debug\Alfa.exe
+C:\Users\osvji\source\repos\Alfa\bin\Debug\Alfa.pdb
+C:\Users\osvji\source\repos\Alfa\obj\Debug\Alfa.csproj.CoreCompileInputs.cache
+C:\Users\osvji\source\repos\Alfa\obj\Debug\Alfa.exe
+C:\Users\osvji\source\repos\Alfa\obj\Debug\Alfa.pdb
